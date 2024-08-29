@@ -1,0 +1,37 @@
+[33mcommit e330b92a83c05ea10ba77f0c962e2d960521df67[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: softDmg <maidawa.mohd@gmail.com>
+Date:   Thu Aug 29 08:50:33 2024 +0200
+
+    modified saturn1.py
+
+[33mcommit 69f6af17458a5f0c2a1ba1f691eb0cb1042af892[m
+Author: softDmg <maidawa.mohd@gmail.com>
+Date:   Thu Aug 29 08:48:42 2024 +0200
+
+    addition of files and folders
+
+[33mcommit 472333eefe41c80043a2bcdbcab49b0c99001e7d[m
+Merge: 843e418 cfc7392
+Author: softDmg <maidawa.mohd@gmail.com>
+Date:   Thu Aug 29 08:43:43 2024 +0200
+
+    Merge branch 'main' of https://github.com/softDmg/titanwork
+    For Practice, I need to do this
+
+[33mcommit 843e4180d7ff9dfe126f215f5ec5777dfcd8cef6[m
+Author: softDmg <maidawa.mohd@gmail.com>
+Date:   Thu Aug 29 08:42:45 2024 +0200
+
+    new titan file
+
+[33mcommit 10f30d018dfa63a41c62f7856752a4155fa26b2a[m
+Author: softDmg <maidawa.mohd@gmail.com>
+Date:   Thu Aug 29 08:24:05 2024 +0200
+
+    first commit
+
+[33mcommit cfc73921158260ff9c7dbf4638b0fd86a2eddf65[m
+Author: Mohammad Maidawa <151969057+softDmg@users.noreply.github.com>
+Date:   Thu Aug 29 08:17:58 2024 +0200
+
+    Initial commit
