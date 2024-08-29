@@ -1,0 +1,6 @@
+####################################################################
+
+Use git pull origin main --allow-unrelated-histories to pull and merge the unrelated histories.
+Resolve any conflicts if they arise, then push your changes.
+
+###################################################################
